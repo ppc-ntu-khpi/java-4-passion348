@@ -12,4 +12,7 @@
 3. завантажте ваш код до до теки **src** вашого репозиторію (замінивши код прикладу). Експортовану (в PNG) діаграму завантажте в теку **images** та додайте в **Readme** (не забудьте в ньому описати що за тварину ви обрали)
 4. здайте завдання. **УВАГА! Не забудьте, здаючи завдання через Google Classroom, вказати посилання на Ваш репозиторій!**
 
-<img width="450" height="407" alt="donework" src="https://github.com/user-attachments/assets/8e852a66-6d0d-4680-9ecf-9cc908aafa7f" />
+
+## Я обрав свиню і така діаграма в мене вийшла
+
+<img width="642" height="471" alt="donework" src="https://github.com/user-attachments/assets/322c11c5-583a-413b-9bf1-bfbb4f2b4d11" />
